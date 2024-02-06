@@ -30,14 +30,15 @@ Figma, Miro
 
 # 01 Research
 ## Research Plan
-	Research enables me to dig deep into my understanding of users
-	- not only their immediate frustrations, but also their hopes, fears, abilities, limitations, reasoning, and goals. It lays essential foundations for creating solutions
-	in later stages.
-	
-	To ensure the research stays on track and better guide the responsive website
-	design later, it is important to create a research plan before diving into the
-	research phase. I listed research goals, research questions, assumptions,
-	methodologies, participants, and timeline in my research plan.
+Research enables me to dig deep into my understanding of users
+not only their immediate frustrations, but also their hopes, fears, abilities, limitations, reasoning, and goals. It lays essential foundations for creating solutions
+in later stages. <br>
+ 
+To ensure the research stays on track and better guide the responsive website
+design later, it is important to create a research plan before diving into the
+research phase. I listed research goals, research questions, assumptions,
+methodologies, participants, and timeline in my research plan.
+
 
 
 
