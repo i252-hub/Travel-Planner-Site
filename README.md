@@ -14,4 +14,20 @@ them with their tour planning, they now want to develop
 an itinerary that connects multiple points of interest including
 low budget options for transportation and desired length of stay in each location.
 
+# Objectives
+• Design a new tour planning management feature that embeds
+	multi-destination itinerary that includes desired length of stay in each location and offering low-cost of transportation.
+• Design a responsive website that is easy to use and allows customers to browse through all different trip categories
+and details, filtering via interests and classifications created.
+
+# Project Scope
+Responsive Website, Adding features 
+
+# Tools
+Figma, Miro
+
+
+
+
+
 
