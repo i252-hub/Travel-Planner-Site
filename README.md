@@ -26,7 +26,9 @@ Responsive Website, Adding features
 # Tools
 Figma, Miro
 
-<img width="803" alt="image" src="https://github.com/i252-hub/Travel-Planner-Site/assets/74281449/4e3ac69c-8ae7-4cc8-b62d-779a3ef823f6">
+# Design Process
+<img width="716" alt="image" src="https://github.com/i252-hub/Travel-Planner-Site/assets/74281449/8b6a2ce5-09ee-4b0a-885f-515a4644b59e">
+
 
 # 01 Research
 ## Research Plan
