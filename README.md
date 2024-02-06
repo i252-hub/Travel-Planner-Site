@@ -158,4 +158,6 @@ of digitizing.
 ![image](https://github.com/i252-hub/Travel-Planner-Site/assets/74281449/b2cd0195-f844-47f0-b71f-d54577f0b452)
 
 ## Responsive UI Design
-
+I created responsive UIs by applying established styles. It further lets me to examine the overall
+aesthetic feelings and visual balance of the website.
+![image](https://github.com/i252-hub/Travel-Planner-Site/assets/74281449/d9b6f8c7-366e-455d-9d1a-016b0eb2bbf7)
