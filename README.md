@@ -16,7 +16,7 @@ low budget options for transportation and desired length of stay in each locatio
 
 # Objectives
 • Design a new tour planning management feature that embeds
-	multi-destination itinerary that includes desired length of stay in each location and offering low-cost of transportation.
+	multi-destination itinerary that includes desired length of stay in each location and offering low-cost of transportation. <br>
 • Design a responsive website that is easy to use and allows customers to browse through all different trip categories
 and details, filtering via interests and classifications created.
 
