@@ -41,6 +41,15 @@ design later, it is important to create a research plan before diving into the
 research phase. I listed research goals, research questions, assumptions,
 methodologies, participants, and timeline in my research plan.
 
+## Research Goals
+· Understand the market and identify target groups
+· Uncover people's travel booking experiences
+· Learn about how existing travel booking services cater to users' needs as well as their strengths and weaknesses
+· Learn about the preferences, frustrations, goals, needs, and motivations of target groups
+
+## Methodologies
+ - Secondary Research (Market Research, Competitive Analysis)
+ - Primary Research (User Interview)
 
 
 
