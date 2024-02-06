@@ -28,6 +28,17 @@ Figma, Miro
 
 <img width="803" alt="image" src="https://github.com/i252-hub/Travel-Planner-Site/assets/74281449/4e3ac69c-8ae7-4cc8-b62d-779a3ef823f6">
 
+# 01 Research
+## Research Plan
+	Research enables me to dig deep into my understanding of users
+	- not only their immediate frustrations, but also their hopes, fears, abilities, limitations, reasoning, and goals. It lays essential foundations for creating solutions
+	in later stages.
+	
+	To ensure the research stays on track and better guide the responsive website
+	design later, it is important to create a research plan before diving into the
+	research phase. I listed research goals, research questions, assumptions,
+	methodologies, participants, and timeline in my research plan.
+
 
 
 
